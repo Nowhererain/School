@@ -7,7 +7,7 @@
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
-    //11564564
+    //asdfasdfdasf
     QTranslator translator;
     translator.load("zh_second.qm");
     a.installTranslator(&translator);
