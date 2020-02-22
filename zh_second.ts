@@ -4,24 +4,34 @@
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="mainwindow.cpp" line="10"/>
+        <location filename="mainwindow.cpp" line="14"/>
         <source>File</source>
         <translation>文件</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="11"/>
+        <location filename="mainwindow.cpp" line="15"/>
         <source>Edit</source>
         <translation>编辑</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="13"/>
+        <location filename="mainwindow.cpp" line="17"/>
         <source>New</source>
         <translation>新建</translation>
     </message>
     <message>
-        <location filename="mainwindow.cpp" line="15"/>
+        <location filename="mainwindow.cpp" line="19"/>
         <source>Open</source>
         <translation>打开</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="36"/>
+        <source>info</source>
+        <translation>提示信息</translation>
+    </message>
+    <message>
+        <location filename="mainwindow.cpp" line="38"/>
+        <source>rightInfo</source>
+        <translation>右侧提示信息</translation>
     </message>
 </context>
 </TS>
